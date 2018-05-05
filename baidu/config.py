@@ -1,0 +1,7 @@
+MONGO_URL = 'localhost'
+MONGO_DB = 'BAIDU'
+MONGO_TABLE = 'BAIDU'
+
+GROUP_START = 1
+GROUP_END = 10
+KEYWORD = 'xxx'
